@@ -1,5 +1,5 @@
 # Online_Sales
-# 😊OnlineSales_Assignent...
+# 😊OnlineSales_Assignment...
 
 
 /*   Task-1 SQL solution :-   */ 
